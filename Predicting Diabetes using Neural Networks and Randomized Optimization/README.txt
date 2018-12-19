@@ -1,7 +1,5 @@
 
 Randomized Optimization, Machine Learning Project 2
-Kunal Sharma
-Ksharma74@gatech.edu
 ====================================================================================================
 
 Dataset:
